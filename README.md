@@ -4,6 +4,11 @@ Painel diário em HTML autocontido com normativos do Diário Oficial da União (
 
 Gerado com o apoio do Claude (Anthropic), com curadoria de [Darci de Borba](https://www.darcideborba.com.br).
 
+## Código-fonte e prompt
+
+- `gerar_painel.py` — script Python que consulta a busca pública do DOU e monta o HTML.
+- `PROMPT.md` — instrução de IA usada para curadoria e geração do painel.
+
 ## Visualizar
 
 Abra `index.html`, ou acesse via GitHub Pages (quando habilitado) em:
