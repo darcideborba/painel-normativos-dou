@@ -1,0 +1,23 @@
+{
+  "title": "Painel de Normativos do DOU",
+  "description": "Painel diário em HTML autocontido com normativos do Diário Oficial da União (DOU) curados por tema: governo digital, inteligência artificial, processos administrativos, pesquisa acadêmica e administração pública. Inclui o script Python de geração e o prompt de curadoria.",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "administração pública",
+    "direito administrativo",
+    "DOU",
+    "governo digital",
+    "Diário Oficial da União"
+  ],
+  "license": "mit"
+}
