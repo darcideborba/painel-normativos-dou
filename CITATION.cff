@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite-o conforme os metadados abaixo."
+type: software
+title: "Painel de Normativos do DOU"
+abstract: "Painel diário em HTML autocontido com normativos do Diário Oficial da União (DOU) curados por tema: governo digital, inteligência artificial, processos administrativos, pesquisa acadêmica e administração pública. Inclui o script Python de geração e o prompt de curadoria."
+authors:
+  - family-names: "Santos Júnior"
+    given-names: "Darci de Borba"
+    affiliation: "Instituto de Pesquisa Econômica Aplicada (Ipea)"
+    orcid: "https://orcid.org/0000-0001-9851-5034"
+version: "1.0.0"
+date-released: "2026-09-23"
+repository-code: "https://github.com/darcideborba/painel-normativos-dou"
+license: MIT
+keywords:
+  - "administração pública"
+  - "direito administrativo"
+  - "DOU"
+  - "governo digital"
+  - "Diário Oficial da União"
